@@ -3,7 +3,7 @@
   # This is Play level variables, map
   vars:
     COURSE: DevOps with AWS
-    TRAINER: Sivakumar
+    TRAINER: Praveen
     DURATION: 110HRS
   tasks:
   - name: print hello world
