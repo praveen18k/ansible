@@ -7,20 +7,20 @@
 [mongodb:vars]
 MONGO_USERNAME=mongodbadmin
 MONGO_DB=categories
-NAME=Sivakumar-inventory
+NAME=Praveen-inventory
 
 [mysql]
-roboshop-us-dev-db-mysql-01.joindevops.online
-roboshop-us-dev-db-mysql-02.joindevops.online
+roboshop-us-dev-db-mysql-01.awsdevops.site
+roboshop-us-dev-db-mysql-02.awsdevops.site
 
 [cart]
-roboshop-in-prod-app-cart-01.joindevops.online
-roboshop-in-prod-app-cart-02.joindevops.online
-roboshop-in-prod-app-cart-03.joindevops.online
+roboshop-in-prod-app-cart-01.awsdevops.site
+roboshop-in-prod-app-cart-02.awsdevops.site
+roboshop-in-prod-app-cart-03.awsdevops.site
 
 [user]
-roboshop-in-prod-app-user-01.joindevops.online
-roboshop-in-prod-app-user-02.joindevops.online
+roboshop-in-prod-app-user-01.awsdevops.site
+roboshop-in-prod-app-user-02.awsdevops.site
 
 [db:children]
 mongodb
